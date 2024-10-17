@@ -15,7 +15,7 @@ I'm an Italian Full Stack Developer who loves diving into code to build innovati
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-%234479A1?style=flat&logo=salesforce&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0?style=flat&logo=salesforce&logoColor=white)
 
 <!-- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) -->
 
